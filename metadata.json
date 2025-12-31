@@ -1,0 +1,8 @@
+{
+  "name": "Aushadh-AI",
+  "description": "A smart prescription digitizer supporting the PMBJP mission. Analyzes prescriptions to suggest Jan Aushadhi generic equivalents and calculate savings.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
